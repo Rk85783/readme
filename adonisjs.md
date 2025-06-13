@@ -1,3 +1,16 @@
+**AdonisJS** ek Node.js framework hai jo **Express** se zyada features deta hai. Express simple hai, lekin AdonisJS **structured** aur **full-stack** hai, matlab aapko authentication, database ORM, WebSockets, aur dusre tools out-of-the-box milte hain.
+
+**AdonisJS** ka fayda:
+
+* **Built-in features** (jaise auth, database handling).
+* **Structure** aur **conventions** deta hai, jo large projects mein helpful hota hai.
+* **Real-time apps** aur **APIs** ke liye best hai.
+
+**Express** simple aur lightweight hai, lekin aapko sab kuch manually setup karna padta hai.
+
+**Use AdonisJS** jab aapko ek ready-made solution chahiye, jaise ek complete app ya API build karna ho. **Express** jab aapko bas ek simple server chahiye ho.
+
+
 **AdonisJS** is a full-stack JavaScript framework for building web applications and APIs. It’s built on top of Node.js and offers a comprehensive solution, offering built-in tools for things like authentication, ORM (Object Relational Mapping), and a structured approach to handling requests and responses. Think of it as a more opinionated version of Express.js, with many features pre-configured and ready to go, rather than leaving you to wire everything up from scratch.
 
 Here’s a deeper dive into **why AdonisJS might be preferred over Express** and **where it’s used**:
